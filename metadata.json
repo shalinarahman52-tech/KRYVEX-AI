@@ -1,0 +1,8 @@
+{
+  "name": "KRYVEX AI",
+  "description": "A high-performance AI platform featuring advanced text reasoning, image generation, video creation, and real-time voice interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
